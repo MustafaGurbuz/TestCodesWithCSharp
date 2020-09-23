@@ -1,0 +1,7 @@
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\DoFactory.GangOfFour.Abstract.Structural\DoFactory.GangOfFour.Abstract.Structural\bin\Debug\DoFactory.GangOfFour.Abstract.Structural.exe.config
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\DoFactory.GangOfFour.Abstract.Structural\DoFactory.GangOfFour.Abstract.Structural\bin\Debug\DoFactory.GangOfFour.Abstract.Structural.exe
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\DoFactory.GangOfFour.Abstract.Structural\DoFactory.GangOfFour.Abstract.Structural\bin\Debug\DoFactory.GangOfFour.Abstract.Structural.pdb
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\DoFactory.GangOfFour.Abstract.Structural\DoFactory.GangOfFour.Abstract.Structural\obj\Debug\DoFactory.GangOfFour.Abstract.Structural.csprojAssemblyReference.cache
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\DoFactory.GangOfFour.Abstract.Structural\DoFactory.GangOfFour.Abstract.Structural\obj\Debug\DoFactory.GangOfFour.Abstract.Structural.csproj.CoreCompileInputs.cache
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\DoFactory.GangOfFour.Abstract.Structural\DoFactory.GangOfFour.Abstract.Structural\obj\Debug\DoFactory.GangOfFour.Abstract.Structural.exe
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\DoFactory.GangOfFour.Abstract.Structural\DoFactory.GangOfFour.Abstract.Structural\obj\Debug\DoFactory.GangOfFour.Abstract.Structural.pdb

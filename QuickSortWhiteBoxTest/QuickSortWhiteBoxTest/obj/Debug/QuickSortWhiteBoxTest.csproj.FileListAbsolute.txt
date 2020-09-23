@@ -1,0 +1,7 @@
+C:\Users\MUSTAFA\source\repos\QuickSortWhiteBoxTest\QuickSortWhiteBoxTest\bin\Debug\QuickSortWhiteBoxTest.exe.config
+C:\Users\MUSTAFA\source\repos\QuickSortWhiteBoxTest\QuickSortWhiteBoxTest\bin\Debug\QuickSortWhiteBoxTest.exe
+C:\Users\MUSTAFA\source\repos\QuickSortWhiteBoxTest\QuickSortWhiteBoxTest\bin\Debug\QuickSortWhiteBoxTest.pdb
+C:\Users\MUSTAFA\source\repos\QuickSortWhiteBoxTest\QuickSortWhiteBoxTest\obj\Debug\QuickSortWhiteBoxTest.csprojAssemblyReference.cache
+C:\Users\MUSTAFA\source\repos\QuickSortWhiteBoxTest\QuickSortWhiteBoxTest\obj\Debug\QuickSortWhiteBoxTest.csproj.CoreCompileInputs.cache
+C:\Users\MUSTAFA\source\repos\QuickSortWhiteBoxTest\QuickSortWhiteBoxTest\obj\Debug\QuickSortWhiteBoxTest.exe
+C:\Users\MUSTAFA\source\repos\QuickSortWhiteBoxTest\QuickSortWhiteBoxTest\obj\Debug\QuickSortWhiteBoxTest.pdb

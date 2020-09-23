@@ -1,0 +1,6 @@
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\AlfabePerformansTesti\AlfabePerformansTesti\obj\Debug\AlfabePerformansTesti.csproj.CoreCompileInputs.cache
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\AlfabePerformansTesti\AlfabePerformansTesti\bin\Debug\AlfabePerformansTesti.exe.config
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\AlfabePerformansTesti\AlfabePerformansTesti\bin\Debug\AlfabePerformansTesti.exe
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\AlfabePerformansTesti\AlfabePerformansTesti\bin\Debug\AlfabePerformansTesti.pdb
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\AlfabePerformansTesti\AlfabePerformansTesti\obj\Debug\AlfabePerformansTesti.exe
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\AlfabePerformansTesti\AlfabePerformansTesti\obj\Debug\AlfabePerformansTesti.pdb

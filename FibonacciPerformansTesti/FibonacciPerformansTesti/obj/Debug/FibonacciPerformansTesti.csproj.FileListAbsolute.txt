@@ -1,0 +1,7 @@
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\FibonacciPerformansTesti\FibonacciPerformansTesti\bin\Debug\FibonacciPerformansTesti.exe.config
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\FibonacciPerformansTesti\FibonacciPerformansTesti\bin\Debug\FibonacciPerformansTesti.exe
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\FibonacciPerformansTesti\FibonacciPerformansTesti\bin\Debug\FibonacciPerformansTesti.pdb
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\FibonacciPerformansTesti\FibonacciPerformansTesti\obj\Debug\FibonacciPerformansTesti.csprojAssemblyReference.cache
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\FibonacciPerformansTesti\FibonacciPerformansTesti\obj\Debug\FibonacciPerformansTesti.csproj.CoreCompileInputs.cache
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\FibonacciPerformansTesti\FibonacciPerformansTesti\obj\Debug\FibonacciPerformansTesti.exe
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\FibonacciPerformansTesti\FibonacciPerformansTesti\obj\Debug\FibonacciPerformansTesti.pdb

@@ -1,0 +1,6 @@
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\TersString\TersString\bin\Debug\TersString.exe.config
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\TersString\TersString\bin\Debug\TersString.exe
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\TersString\TersString\bin\Debug\TersString.pdb
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\TersString\TersString\obj\Debug\TersString.csproj.CoreCompileInputs.cache
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\TersString\TersString\obj\Debug\TersString.exe
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\TersString\TersString\obj\Debug\TersString.pdb

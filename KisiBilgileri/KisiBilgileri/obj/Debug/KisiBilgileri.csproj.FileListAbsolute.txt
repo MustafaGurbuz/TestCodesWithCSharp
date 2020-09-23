@@ -1,0 +1,6 @@
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\KisiBilgileri\KisiBilgileri\bin\Debug\KisiBilgileri.exe.config
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\KisiBilgileri\KisiBilgileri\bin\Debug\KisiBilgileri.exe
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\KisiBilgileri\KisiBilgileri\bin\Debug\KisiBilgileri.pdb
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\KisiBilgileri\KisiBilgileri\obj\Debug\KisiBilgileri.csproj.CoreCompileInputs.cache
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\KisiBilgileri\KisiBilgileri\obj\Debug\KisiBilgileri.exe
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\KisiBilgileri\KisiBilgileri\obj\Debug\KisiBilgileri.pdb

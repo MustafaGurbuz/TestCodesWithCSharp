@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkademikBilgiler", "AkademikBilgiler\AkademikBilgiler.csproj", "{4DB6C811-17B5-4754-9759-D8C08A097780}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkademikBirimTesti", "AkademikBirimTesti\AkademikBirimTesti.csproj", "{93EFDCDE-28FB-40B0-A353-8C4EE1CA0657}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DB6C811-17B5-4754-9759-D8C08A097780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB6C811-17B5-4754-9759-D8C08A097780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB6C811-17B5-4754-9759-D8C08A097780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB6C811-17B5-4754-9759-D8C08A097780}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93EFDCDE-28FB-40B0-A353-8C4EE1CA0657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93EFDCDE-28FB-40B0-A353-8C4EE1CA0657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93EFDCDE-28FB-40B0-A353-8C4EE1CA0657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93EFDCDE-28FB-40B0-A353-8C4EE1CA0657}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {614C50A0-BAE8-4E81-B8C5-33875EAE60BC}
+	EndGlobalSection
+EndGlobal

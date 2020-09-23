@@ -1,0 +1,7 @@
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\DesingPattern\DesingPattern\bin\Debug\DesingPattern.exe.config
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\DesingPattern\DesingPattern\bin\Debug\DesingPattern.exe
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\DesingPattern\DesingPattern\bin\Debug\DesingPattern.pdb
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\DesingPattern\DesingPattern\obj\Debug\DesingPattern.csproj.CoreCompileInputs.cache
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\DesingPattern\DesingPattern\obj\Debug\DesingPattern.exe
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\DesingPattern\DesingPattern\obj\Debug\DesingPattern.pdb
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\DesingPattern\DesingPattern\obj\Debug\DesingPattern.csprojAssemblyReference.cache

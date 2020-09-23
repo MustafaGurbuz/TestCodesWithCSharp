@@ -1,0 +1,6 @@
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\FaktoriyelHesaplama\FaktoriyelHesaplama\bin\Debug\FaktoriyelHesaplama.exe.config
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\FaktoriyelHesaplama\FaktoriyelHesaplama\bin\Debug\FaktoriyelHesaplama.exe
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\FaktoriyelHesaplama\FaktoriyelHesaplama\bin\Debug\FaktoriyelHesaplama.pdb
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\FaktoriyelHesaplama\FaktoriyelHesaplama\obj\Debug\FaktoriyelHesaplama.csproj.CoreCompileInputs.cache
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\FaktoriyelHesaplama\FaktoriyelHesaplama\obj\Debug\FaktoriyelHesaplama.exe
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\FaktoriyelHesaplama\FaktoriyelHesaplama\obj\Debug\FaktoriyelHesaplama.pdb

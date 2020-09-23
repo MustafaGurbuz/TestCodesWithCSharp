@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KisiBilgileri", "KisiBilgileri\KisiBilgileri.csproj", "{5350F078-0970-44B8-9CDF-5384E835FC7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KisiBilgileriBirimTesti", "KisiBilgileriBirimTesti\KisiBilgileriBirimTesti.csproj", "{F1AD1104-63B1-4900-88C6-EAF801B0619E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5350F078-0970-44B8-9CDF-5384E835FC7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5350F078-0970-44B8-9CDF-5384E835FC7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5350F078-0970-44B8-9CDF-5384E835FC7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5350F078-0970-44B8-9CDF-5384E835FC7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1AD1104-63B1-4900-88C6-EAF801B0619E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1AD1104-63B1-4900-88C6-EAF801B0619E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1AD1104-63B1-4900-88C6-EAF801B0619E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1AD1104-63B1-4900-88C6-EAF801B0619E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31D69BC4-03F0-41DE-9C71-B12CBF5F5292}
+	EndGlobalSection
+EndGlobal

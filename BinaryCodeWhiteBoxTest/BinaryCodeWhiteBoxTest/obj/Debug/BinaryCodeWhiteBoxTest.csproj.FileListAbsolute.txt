@@ -1,0 +1,7 @@
+C:\Users\MUSTAFA\source\repos\BinaryCodeWhiteBoxTest\BinaryCodeWhiteBoxTest\bin\Debug\BinaryCodeWhiteBoxTest.exe.config
+C:\Users\MUSTAFA\source\repos\BinaryCodeWhiteBoxTest\BinaryCodeWhiteBoxTest\bin\Debug\BinaryCodeWhiteBoxTest.exe
+C:\Users\MUSTAFA\source\repos\BinaryCodeWhiteBoxTest\BinaryCodeWhiteBoxTest\bin\Debug\BinaryCodeWhiteBoxTest.pdb
+C:\Users\MUSTAFA\source\repos\BinaryCodeWhiteBoxTest\BinaryCodeWhiteBoxTest\obj\Debug\BinaryCodeWhiteBoxTest.csprojAssemblyReference.cache
+C:\Users\MUSTAFA\source\repos\BinaryCodeWhiteBoxTest\BinaryCodeWhiteBoxTest\obj\Debug\BinaryCodeWhiteBoxTest.csproj.CoreCompileInputs.cache
+C:\Users\MUSTAFA\source\repos\BinaryCodeWhiteBoxTest\BinaryCodeWhiteBoxTest\obj\Debug\BinaryCodeWhiteBoxTest.exe
+C:\Users\MUSTAFA\source\repos\BinaryCodeWhiteBoxTest\BinaryCodeWhiteBoxTest\obj\Debug\BinaryCodeWhiteBoxTest.pdb

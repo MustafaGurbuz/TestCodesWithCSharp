@@ -1,0 +1,7 @@
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\RecursivePowPerformansTesti\RecursivePowPerformansTesti\bin\Debug\RecursivePowPerformansTesti.exe.config
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\RecursivePowPerformansTesti\RecursivePowPerformansTesti\bin\Debug\RecursivePowPerformansTesti.exe
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\RecursivePowPerformansTesti\RecursivePowPerformansTesti\bin\Debug\RecursivePowPerformansTesti.pdb
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\RecursivePowPerformansTesti\RecursivePowPerformansTesti\obj\Debug\RecursivePowPerformansTesti.csprojAssemblyReference.cache
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\RecursivePowPerformansTesti\RecursivePowPerformansTesti\obj\Debug\RecursivePowPerformansTesti.csproj.CoreCompileInputs.cache
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\RecursivePowPerformansTesti\RecursivePowPerformansTesti\obj\Debug\RecursivePowPerformansTesti.exe
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\RecursivePowPerformansTesti\RecursivePowPerformansTesti\obj\Debug\RecursivePowPerformansTesti.pdb

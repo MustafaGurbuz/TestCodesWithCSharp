@@ -1,0 +1,7 @@
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\KitapAndISBNPerformansTesti\KitapAndISBNPerformansTesti\obj\Debug\KitapAndISBNPerformansTesti.csproj.CoreCompileInputs.cache
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\KitapAndISBNPerformansTesti\KitapAndISBNPerformansTesti\bin\Debug\KitapAndISBNPerformansTesti.exe.config
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\KitapAndISBNPerformansTesti\KitapAndISBNPerformansTesti\bin\Debug\KitapAndISBNPerformansTesti.exe
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\KitapAndISBNPerformansTesti\KitapAndISBNPerformansTesti\bin\Debug\KitapAndISBNPerformansTesti.pdb
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\KitapAndISBNPerformansTesti\KitapAndISBNPerformansTesti\obj\Debug\KitapAndISBNPerformansTesti.csprojAssemblyReference.cache
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\KitapAndISBNPerformansTesti\KitapAndISBNPerformansTesti\obj\Debug\KitapAndISBNPerformansTesti.exe
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\KitapAndISBNPerformansTesti\KitapAndISBNPerformansTesti\obj\Debug\KitapAndISBNPerformansTesti.pdb

@@ -1,0 +1,7 @@
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\AkademikBilgiler\AkademikBilgiler\bin\Debug\AkademikBilgiler.exe.config
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\AkademikBilgiler\AkademikBilgiler\bin\Debug\AkademikBilgiler.exe
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\AkademikBilgiler\AkademikBilgiler\bin\Debug\AkademikBilgiler.pdb
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\AkademikBilgiler\AkademikBilgiler\obj\Debug\AkademikBilgiler.csprojAssemblyReference.cache
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\AkademikBilgiler\AkademikBilgiler\obj\Debug\AkademikBilgiler.csproj.CoreCompileInputs.cache
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\AkademikBilgiler\AkademikBilgiler\obj\Debug\AkademikBilgiler.exe
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\AkademikBilgiler\AkademikBilgiler\obj\Debug\AkademikBilgiler.pdb

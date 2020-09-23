@@ -1,0 +1,6 @@
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\MergeAndBucketSortPerformansTesti\MergeAndBucketSortPerformansTesti\bin\Debug\MergeAndBucketSortPerformansTesti.exe.config
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\MergeAndBucketSortPerformansTesti\MergeAndBucketSortPerformansTesti\bin\Debug\MergeAndBucketSortPerformansTesti.exe
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\MergeAndBucketSortPerformansTesti\MergeAndBucketSortPerformansTesti\bin\Debug\MergeAndBucketSortPerformansTesti.pdb
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\MergeAndBucketSortPerformansTesti\MergeAndBucketSortPerformansTesti\obj\Debug\MergeAndBucketSortPerformansTesti.csproj.CoreCompileInputs.cache
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\MergeAndBucketSortPerformansTesti\MergeAndBucketSortPerformansTesti\obj\Debug\MergeAndBucketSortPerformansTesti.exe
+F:\YAZILIM MÜHENDİSLİĞİ\4.SINIF\Yazılım Kalite ve Güvence Testi\Lab\Ödev1\MergeAndBucketSortPerformansTesti\MergeAndBucketSortPerformansTesti\obj\Debug\MergeAndBucketSortPerformansTesti.pdb
